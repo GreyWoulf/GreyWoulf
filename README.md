@@ -1,12 +1,11 @@
-# Hello there 👋, I'm Colin But
+# Hello there 👋, I'm Bri Lloyd
 
-### Software/DevOps/Platform Engineer
+### IT Professional & Software/DevOps/Cloud Engineer
 
-- 🔭 I’m currently working on: __DevOps/Site Reliability & Platform Engineering__ 
-- 🌱 I’m currently learning: __Blockchain, Solidity Programming, Go__
-- 💬 Ask me about __DevOps, SRE, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, Software Dev...__
-- 🧧 Chinese name: __畢少謙__
-- ⚡ Fun fact: Having grew up in Scotland, I've never tasted Haggis
+- 🔭 I’m currently working on: __Cyber Defense (SOC Analysis)/Cloud & Voice Engineering__ 
+- 🌱 I’m currently learning: __Blue Team, INE 1-4, Python Automation__
+- 💬 Ask me about __DevOps, Cloud Engineering (AWS)(Azure), Cyber Security, CI/CD, Docker, Kubernetes, Software Dev...__
+- ⚡ Fun fact: I love taking things apart and building them again
 
 <br/>
 
@@ -18,14 +17,14 @@
         <th>My CV</th>
     </tr>
     <tr>
+<!--         <td>
+            <a href="https://medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
+        </td> -->
         <td>
-            <a href="https://colin-but.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
+            <a href="https://www.cyber-lloyd.com/">🌐</a>
         </td>
         <td>
-            <a href="https://GreyWoulf.github.io/">🌐</a>
-        </td>
-        <td>
-            <a href="https://GreyWoulf.github.io/online-resume">📃</a>
+            <a href="https://greywoulf-aws-resume.s3.amazonaws.com/index.html">📃</a>
         </td>
     </tr>
 </table>
@@ -34,9 +33,9 @@
 
 ### Contact me:
 
-<a href="https://twitter.com/Colin_But"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/GreyWoulf/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="https://www.pinterest.co.uk/GreyWoulf"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a>
+<!--<a href="https://twitter.com/"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>-->
+<a href="https://www.linkedin.com/in/briana-l-710278179/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<!--<a href="https://www.pinterest.co.uk/GreyWoulf"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a>-->
 
 ### Toolset
 
